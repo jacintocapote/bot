@@ -1,0 +1,8 @@
+telegram_token: "YOUR_TELEGRAM_TOKEN"
+telegram_chat_id: "YOUR_CHAT_ID"
+dex_apis:
+  - name: Uniswap
+    url: "https://api.uniswap.org/v1/prices"
+  - name: Sushiswap
+    url: "https://api.sushiswap.org/v1/prices"
+threshold_profit: 0.5
