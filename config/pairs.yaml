@@ -1,0 +1,7 @@
+pairs:
+- name: ETH/USDC
+  sources:
+  - dex: uniswap
+    network: ethereum
+  - dex: uniswap
+    network: base
